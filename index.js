@@ -5,4 +5,3 @@ main.remove()
 let newHeader=document.createElement('h1')
 newheader.id='victory'
 newheader.innerHTML="YOUR-NAME is the champion"
-document.body.appendChild('h1#victory')
