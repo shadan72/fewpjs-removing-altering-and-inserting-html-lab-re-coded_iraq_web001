@@ -2,5 +2,5 @@
 let main=document.querySelector("main#main")
 main.remove()
 
-let newHeader=document.createElement("h1#victory")
+let newHeader=document.createElement('h1#victory')
 newheader.innerHTML="YOUR-NAME is the champion"
