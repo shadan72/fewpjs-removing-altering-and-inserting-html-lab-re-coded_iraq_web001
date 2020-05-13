@@ -3,5 +3,5 @@ let main=document.querySelector("main#main")
 main.remove()
 
 let newHeader=document.createElement('h1')
-newheader.id='victory'
-newheader.innerHTML="YOUR-NAME is the champion"
+newHeader.id='victory'
+newHeader.innerHTML="YOUR-NAME is the champion"
